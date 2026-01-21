@@ -1,2 +1,2 @@
 # Cognisense
-Cognisense – AI-powered knowledge and reasoning system
+Cognisense – Train, Evaluate, Evolve with AI.
